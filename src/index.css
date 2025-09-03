@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background-color: #f5ddff;
+  background-color: #efd2fc;
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -13,14 +13,14 @@ body{
 
 .App{
 
-  padding: 7rem;
+  padding: 10rem;
   border-radius: 10px;
   box-shadow: 0 0 50px rgba(200, 131, 233, 0.1);
-  background-color: #dcc7ff;
+  background-color: #f6c7ff;
 }
 
 .container{
-  background-color: rgb(255, 207, 255);
+  background-color: rgb(255, 190, 235);
   padding: 10rem;
   border-radius: 10px;
   box-shadow: 0 0 50px rgba(200, 131, 233, 0.1);
@@ -61,7 +61,7 @@ button{
 
 .converter{
   font-size: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .result{
